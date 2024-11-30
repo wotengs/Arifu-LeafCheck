@@ -1,4 +1,4 @@
-package com.example.gpt_vision_leaf_detect
+package com.arifu.arifu_leafcheck
 
 import io.flutter.embedding.android.FlutterActivity
 

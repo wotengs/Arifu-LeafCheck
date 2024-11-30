@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gpt_vision_leaf_detect/screens/homepage.dart';
+import 'package:arifu_leafcheck/screens/homepage.dart';
 
 void main() {
   runApp(const MyApp());
